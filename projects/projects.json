@@ -3,7 +3,7 @@
   {
     "name": "Instagram MERN clone",
     "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
-    "image": "../assets/images/projects/instagrammern.png",
+    "image": "https://images.app.goo.gl/99bgcaApgQCPLFjUA",
     "category": "mern",
     "links": {
       "view": "https://instagramernstack.herokuapp.com/",
