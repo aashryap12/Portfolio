@@ -13,7 +13,7 @@
   {
     "name": "Flipkart Clone",
     "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway.",
-    "image": "flipkartmern",
+    "image": "../assets/images/projects/flipkartmern.png",
     "category": "mern",
     "links": {
       "view": "https://flipkartwebs.herokuapp.com/",
